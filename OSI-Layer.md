@@ -61,4 +61,8 @@ reaches the email application of the recipient.
 The OSI model is a fundamental concept in networking, providing a structured approach to data communication. 
 By dividing the process into seven layers, it helps standardize protocols, simplify troubleshooting, and enhance the understanding of network functions. 
 Understanding the OSI model is essential for anyone involved in network design, implementation, or management.
+
+## References
+- https://www.youtube.com/watch?v=vv4y_uOneC0
+- https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/
       
